@@ -1,10 +1,14 @@
 # Dave Digger Bot
 
+> **Moved:** Dave Digger Bot now lives with the rest of our games in
+> [andyreagan/pico-8](https://github.com/andyreagan/pico-8).
+> Play it at **https://andyreagan.github.io/pico-8/dave-digger-bot/**. This repo is archived.
+
 A little [PICO-8](https://www.lexaloffle.com/pico8.php) dig-'em-up. Dave tunnels through the dirt, grabs the diamonds, and lobs chickens at the bots that chase him down.
 
 ## ▶️ Play
 
-**https://andyreagan.github.io/dave-digger-bot/**
+**https://andyreagan.github.io/pico-8/dave-digger-bot/**
 
 ## How to play
 
